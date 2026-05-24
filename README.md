@@ -20,7 +20,7 @@ This is not a tutorial project. It is the work a marketing analyst at a company 
 
 ## Live app
 
-[Launch the NorthPoint Marketing Analytics System](your-streamlit-link-here](https://northpoint-marketing-analytics-2d8lsfjebvpvazprsttmvu.streamlit.app/))
+[Launch the NorthPoint Marketing Analytics System](https://northpoint-marketing-analytics-2d8lsfjebvpvazprsttmvu.streamlit.app/)
 
 ---
 

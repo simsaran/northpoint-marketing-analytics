@@ -1,0 +1,4 @@
+Segment,Customer Count,Avg Monthly Revenue CAD,Avg Active Months,Estimated LTV CAD,Max Justified CAC CAD,Actual Avg CAC CAD,CAC vs Max Justified,Profit per Customer CAD
+High Value,150,31.6,4.7,149.06,49.19,49.66,Over,99.4
+Medium Value,289,18.19,4.5,81.16,26.78,52.85,Over,28.31
+Low Value,149,6.16,4.3,26.76,8.83,54.52,Over,-27.76

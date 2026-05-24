@@ -1,0 +1,5 @@
+Channel,Total Signups,Activated,Activation Rate %,Active at Day 30,Day 30 Retention %,Active at Day 90,Day 90 Retention %,Avg CAC CAD,Avg Monthly Revenue (Active 90d) CAD,Estimated 6M LTV CAD,LTV to CAC Ratio,CAC Justified by LTV?
+Paid Social,951,560,58.9,230,24.2,129,13.6,85.69,12.51,75.05,0.88,No
+Organic Search,618,451,73.0,287,46.4,193,31.2,35.5,19.52,117.14,3.3,Yes
+Referral,462,372,80.5,279,60.4,226,48.9,55.18,22.97,137.82,2.5,Yes
+Email Campaign,369,181,49.1,71,19.2,40,10.8,17.94,8.5,51.01,2.84,Yes

@@ -1,0 +1,4 @@
+Campaign ID,Campaign Name,Type,Target Segment,Send Date,Subject Line A,Subject Line B,Audience Size A,Audience Size B,Open Rate A %,Open Rate B %,Click Rate A %,Click Rate B %,Conversion Rate A %,Conversion Rate B %,Revenue Attributed A CAD,Revenue Attributed B CAD,Campaign Cost CAD
+CAM-001,Q1 Onboarding Reactivation,Email,Low Value,2024-02-15,Your NorthPoint account is waiting for you,You have $25 ready to unlock in your account,600,600,18.4,31.2,4.2,9.8,1.8,4.1,648,1476,2400
+CAM-002,Spring Rewards Launch,Email,Medium Value,2024-04-01,New rewards waiting for you this spring,Double points this April — here is how,800,800,22.1,34.8,6.4,12.3,2.9,5.7,1392,2736,3200
+CAM-003,High Value Retention Push,Email,High Value,2024-07-10,Thank you for being a NorthPoint member,A personal offer for our most valued members,300,300,38.2,52.6,14.1,22.8,7.2,11.4,1296,2052,1800
